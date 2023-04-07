@@ -1,0 +1,47 @@
+{
+  "dogBreeds": [
+    {
+      "id": 1,
+      "breed": "Labrador Retriever",
+      "origin": "Canada,USA",
+      "temperament": ["Cheerful", "Gentle", "Friendly", "Intelligent"],
+      "image": "https://images.unsplash.com/photo-1646558583129-104134b414cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFicmFkb3IlMjByZXRyaWV2ZXIlMjBkb2d8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "breed": "German Shepard",
+      "origin": "Germany",
+      "temperament": ["Corageous", "Intelligent", "Loyal", "Watchful"],
+      "image": "https://images.unsplash.com/photo-1605725657590-b2cf0d31b1a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2VybWFuJTIwc2hlcGhlcmQlMjBkb2d8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "breed": "Golden Retriever",
+      "origin": "United Kingdom",
+      "temperament": ["Intelligent", "Kind", "Friendly", "Confident"],
+      "hypoallergenic": "No",
+      "image": "https://plus.unsplash.com/premium_photo-1666777247416-ee7a95235559?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z29sZGVuJTIwcmV0cmlldmVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "breed": "Africanis",
+      "origin": "South Africa",
+      "temperament": ["Intelligent", "Kind", "Friendly", "Confident"],
+      "hypoallergenic": "No",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Africanis_%281%29.jpg/440px-Africanis_%281%29.jpg"
+    },
+    {
+      "breed": "Doberman",
+      "image": "https://www.akc.org/wp-content/uploads/2017/11/Doberman-Pinscher-standing-outdoors.jpg",
+      "temperament": ["Intelligent", "Kind", "Friendly", "Scary"],
+      "id": 5
+    },
+    {
+      "breed": "Poodle",
+      "image": "https://images.unsplash.com/photo-1651273427958-bf78352e39be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9vZGxlJTIwZG9nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+      "temperament": ["fun", "Kind", "Energetic", "Smart"],
+
+      "id": 6
+    }
+  ]
+}
